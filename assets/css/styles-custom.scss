@@ -1,3 +1,103 @@
-// Bootstrap Overrides
+.icon-logo-style {
+    visibility: hidden;
+}
 
-$card-cap-bg: transparent !default;
+div.h4 {
+    visibility: hidden;
+}
+
+img {
+    visibility: hidden !important;
+}
+// .classbiz {
+//     .cb {
+//         background-color: red;
+//     };
+//     .db {
+//         background-color: green;
+
+//     }
+// }
+
+// .classbiz {
+//     .cb {
+//         display: block;
+//     };
+//     .db {
+//         display:none;
+//     }
+//     .gb {
+//         display:none;
+//     }
+//     .mb {
+//         display:none;
+//     }
+//     .sb {
+//         display:none;
+//     }
+//     .swb {
+//         display:none;
+//     }
+//     .tb {
+//         display:none;
+//     }
+// }
+
+// the small gradient for the profile cards and pricing page
+// @mixin gradient-small {
+//     // dancebiz
+//     // background: rgb(189,26,141);
+//     // background: radial-gradient(circle, rgba(189,26,141) 25%, rgb(158, 20, 117) 85%,  rgb(158, 20, 117) 100%);
+
+//     // classbiz
+//     // background: rgb(150,62,153);
+//     // background: radial-gradient(circle, rgba(119,48,121,1) 40%, rgba(89,36,91) 87%, rgba(74,30,75,1) 100%);
+//     background: radial-gradient(circle, rgb(150, 62, 153) 25%, rgb(119,48,121) 95%);
+
+
+//     // gymnasticsbiz
+//     // background: rgb(246,146,30);
+//     // background: radial-gradient(circle, rgba(246,146,30) 40%, rgba(226,113,8) 87%, rgb(221, 119, 3) 100%);
+
+//     // musicbiz
+//     // background: rgb(207,156,46);
+//     // background: radial-gradient(circle, rgb(207, 156, 46) 40%, rgb(196, 140, 56) 75%, rgb(179, 121, 35) 100%);
+
+//     // sportsbiz
+//     // background: radial-gradient(circle, rgb(173, 38, 42) 40%, rgb(156, 32, 36) 67%, rgb(146, 2, 7) 100%);
+
+//     // swimbiz
+//     // background: rgb(3, 112, 201);
+//     // background: radial-gradient(circle, rgb(8, 116, 204) 40%, rgb(5, 112, 199) 67%, rgb(18, 96, 199) 100%);
+    
+//     // tennisbiz
+//     // background: rgb(1,128,69);
+//     // background: radial-gradient(circle, rgb(22, 168, 100) 40%, rgb(8, 146, 82) 75%, rgb(3, 124, 68) 100%);
+//     // background: radial-gradient(circle, rgb(22, 168, 100) 40%, rgb(8, 146, 82) 75%, rgb(3, 124, 68) 100%);
+//     box-shadow: inset 0px -43px 75px -50px rgba(0,0,0,.2);
+// }
+
+// small gradient for profile and pricing cards
+// gradient small
+// .gradient-small {
+//     @include gradient-small;
+//     box-shadow: inset 0px 0px 25px 0px rgba(0,0,0,.1);
+// }
+
+// to delete
+// .features-icons-large {
+//     width: 65px;
+//     height: auto;
+//     margin-left: auto;
+//     margin-right: auto;
+//     opacity: .2;
+//     @include media-breakpoint-up(lg) {
+//         width: 60px;
+//     }
+//     @include media-breakpoint-up(xl) {
+//         width: 100px;
+//     }
+// }
+// .collapsing {
+//     background-color: #5fcf80;
+// }
